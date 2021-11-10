@@ -20,7 +20,7 @@
     </nav>
     <div class="flex-1">
       <a href="/" class="block w-56 mx-auto">
-        <img src="http://a.storyblok.com/f/42016/1096x313/0353bf6654/logo2.png">
+        <img src="https://a.storyblok.com/f/42016/1096x313/0353bf6654/logo2.png">
       </a>
     </div>
     <nav>
